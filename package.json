@@ -1,0 +1,26 @@
+{
+	"name": "v-compare",
+	"description": "Compare version numbers in any format (not necessarily semver)",
+	"version": "1.0.0",
+	"homepage": "https://github.com/MartinKolarik/v-compare/",
+	"github": "https://github.com/MartinKolarik/v-compare/",
+	"main": "index.umd.js",
+	"keywords": [
+		"compare versions",
+		"semver",
+		"versions compare"
+	],
+	"author": {
+		"name": "Martin Kolárik",
+		"email": "martin@kolarik.sk",
+		"url": "https://kolarik.sk"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MartinKolarik/v-compare.git"
+	},
+	"bugs": {
+		"url": "https://github.com/MartinKolarik/v-compare/issues/"
+	}
+}
